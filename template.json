@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@reach/router": "^1.2.1",
+    "lodash": "^4.17.15",
+    "axios": "^0.19.0",
+    "antd": "^3.25.2",
+    "babel-plugin-import": "^1.12.2",
+    "customize-cra": "^0.9.1",
+    "node-sass": "^4.13.0",
+    "react-app-rewired": "^2.1.5"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-fgg-antd",
+  "main": "template.json",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "antd"
+  ],
+  "description": "A react-app template with antd",
+  "author": "boomyao",
+  "repository": "https://github.com/fagougou/cra-template-fgg-antd.git",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fagougou/cra-template-fgg-antd/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
